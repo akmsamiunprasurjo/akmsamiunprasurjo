@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m A K M Samiun Prasurjo
 
-<!--
-**akmsamiunprasurjo/akmsamiunprasurjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Founder @ [AKM IT Solutions](https://akmitsolutions.com)  
+🎓 CSE Student @ Canadian University of Bangladesh  
+🚀 Building tech that builds businesses — not just for jobs, but for real impact
 
-Here are some ideas to get you started:
+## 🔧 Tools & Tech I’m Exploring
+- Web Development (HTML, CSS, JS)
+- Python & C Programming
+- Cloud & Hosting
+- Startup Strategy & Product Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect
+- 🌐 [about.me/akmsamiunprasurjo](https://about.me/akmsamiunprasurjo)
+- 💼 [LinkedIn](https://bd.linkedin.com/in/akmsamiunprasurjoofficial)
+- 📩 Email: info@akmitsolutions.com
