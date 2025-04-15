@@ -10,7 +10,8 @@
 - Cloud & Hosting
 - Startup Strategy & Product Design
 
-## 📫 Let’s Connect
-- 🌐 [about.me/akmsamiunprasurjo](https://about.me/akmsamiunprasurjo)
-- 💼 [LinkedIn](https://bd.linkedin.com/in/akmsamiunprasurjoofficial)
-- 📩 Email: info@akmitsolutions.com
+## 🔗 All My Links  
+👉 [linktr.ee/akmsamiunprasurjo](https://linktr.ee/akmsamiunprasurjo)
+
+## 📩 Contact  
+Email: a.k.m.samiunprasurjo@gmail.com
